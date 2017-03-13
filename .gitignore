@@ -68,3 +68,13 @@ modules.xml
 .idea/misc.xml
 *.ipr
 
+######
+#project speficic files not wanted
+######
+# database - for local testing
+envlog.db
+# executables
+weatherpi
+weatherpi.arm6
+
+
